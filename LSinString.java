@@ -1,6 +1,6 @@
 public class SearchInStrings {
     public static void main(String[] args) {
-        String name = "Kunal";
+        String name = "Subhani";
         char target = 'u';
         System.out.println(search(name, target));
 }
